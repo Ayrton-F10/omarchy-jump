@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "local.jump",
+  "name": "Jump to Window",
+  "version": "1.0.0",
+  "author": "Ayrton-F10",
+  "description": "Switch workspaces and jump to any window, grouped by workspace category",
+  "kinds": [
+    "overlay"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "overlay": "Jump.qml"
+  }
+}

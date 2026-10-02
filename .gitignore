@@ -1,0 +1,10 @@
+# Nothing here should ever be committed, but keep it explicit.
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local editor / OS cruft
+.idea/
+.vscode/
+*~
