@@ -19,9 +19,14 @@ them would load that state twice per keystroke.
 *The panel, filtered to a single workspace. Type to narrow; <kbd>↑</kbd>/<kbd>↓</kbd>
 to move, <kbd>⏎</kbd> to focus or switch, <kbd>esc</kbd> to dismiss.*
 
-![The workspace chip](images/chip.png)
+![The workspace chip over a window](images/chip-agents.png)
 
-*The chip, shown on every workspace change.*
+*The chip, shown on every workspace change. The drop shadow is what keeps it
+legible over a busy window.*
+
+![The workspace chip over the desktop](images/chip-config.png)
+
+*The same chip over a plain desktop.*
 
 ## Requirements
 
