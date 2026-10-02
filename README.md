@@ -14,6 +14,15 @@ Two independent surfaces in one plugin:
 Both read the same Hyprland state, which is why they live in one file: splitting
 them would load that state twice per keystroke.
 
+![The jump panel, filtered to one workspace](images/panel.png)
+
+*The panel, filtered to a single workspace. Type to narrow; <kbd>↑</kbd>/<kbd>↓</kbd>
+to move, <kbd>⏎</kbd> to focus or switch, <kbd>esc</kbd> to dismiss.*
+
+![The workspace chip](images/chip.png)
+
+*The chip, shown on every workspace change.*
+
 ## Requirements
 
 - Omarchy with the Quickshell shell
