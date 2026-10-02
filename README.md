@@ -14,10 +14,11 @@ Two independent surfaces in one plugin:
 Both read the same Hyprland state, which is why they live in one file: splitting
 them would load that state twice per keystroke.
 
-![The jump panel, filtered to one workspace](images/panel.png)
+![The jump panel listing workspaces and windows](images/panel.png)
 
-*The panel, filtered to a single workspace. Type to narrow; <kbd>↑</kbd>/<kbd>↓</kbd>
-to move, <kbd>⏎</kbd> to focus or switch, <kbd>esc</kbd> to dismiss.*
+*The panel, listing every workspace and the windows on it. Type to narrow; <kbd>↑</kbd>/<kbd>↓</kbd>
+to move, <kbd>⏎</kbd> to focus or switch, <kbd>esc</kbd> to dismiss. Window titles have
+been redacted.*
 
 ![The workspace chip over a window](images/chip-agents.png)
 
